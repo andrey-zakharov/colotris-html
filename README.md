@@ -5,6 +5,6 @@ The main purpose of this project not a game itself, but godot use case as tool f
 
 # Demo 
 ## online html
-  https://andrey-zakharov.github.io/g1/colotris.html
+  https://andrey-zakharov.github.io/colotris-html/colotris.html
 ## android app
   https://play.google.com/store/apps/details?id=org.andreyzakharov.colotris
